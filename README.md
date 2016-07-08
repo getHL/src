@@ -158,5 +158,5 @@ The web application [vms] appears to have started a thread named [C3P0PooledConn
 整合：http://www.cnblogs.com/jyh317/p/3751412.html
 
 
-
+ognl.MethodFailedException: Method "index" failed for object hello.Application@6fe6b45a [java.lang.NoSuchMethodError: org.hibernate.SessionFactory.getCurrentSession()Lorg/hibernate/Session;]
 
